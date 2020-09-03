@@ -1,0 +1,30 @@
+{
+  "name": "compare-arrays",
+  "version": "1.0.0",
+  "description": "compare the javascript arrays",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilhhh94/compare-arrays.git"
+  },
+  "keywords": [
+    "arrays",
+    "array",
+    "equality"
+  ],
+  "author": "Akhil HH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilhhh94/compare-arrays/issues"
+  },
+  "homepage": "https://github.com/akhilhhh94/compare-arrays#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.11.5",
+    "@babel/core": "^7.11.5",
+    "@babel/preset-env": "^7.11.5"
+  }
+}
