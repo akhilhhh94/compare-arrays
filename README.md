@@ -7,4 +7,10 @@ So this package is perfect solution for this.
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm install compare-arrays --save`
+
+```javascript
+import compare from 'compare-arrays';
+compare([],[]) // return true or false
+```
+Thank you
